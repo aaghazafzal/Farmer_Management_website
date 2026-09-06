@@ -1,0 +1,9 @@
+[    6972ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25630
+[    7551ms] [ERROR] Access to fetch at 'http://localhost:8000/api/v1/reports/daily?centre_id=6a9dbf0f2ff1af12c1d6ca69' from origin 'http://localhost:3002' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:3002/dashboard:0
+[    7551ms] [ERROR] Failed to load resource: net::ERR_FAILED @ http://localhost:8000/api/v1/reports/daily?centre_id=6a9dbf0f2ff1af12c1d6ca69:0
+[    7561ms] [ERROR] Access to fetch at 'http://localhost:8000/api/v1/alerts' from origin 'http://localhost:3002' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:3002/dashboard:0
+[    7561ms] [ERROR] Failed to load resource: net::ERR_FAILED @ http://localhost:8000/api/v1/alerts:0
+[    7619ms] [ERROR] Access to fetch at 'http://localhost:8000/api/v1/alerts' from origin 'http://localhost:3002' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:3002/dashboard:0
+[    7619ms] [ERROR] Failed to load resource: net::ERR_FAILED @ http://localhost:8000/api/v1/alerts:0
+[    7632ms] [ERROR] Access to fetch at 'http://localhost:8000/api/v1/reports/daily?centre_id=6a9dc517418f8c94e752ee34' from origin 'http://localhost:3002' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:3002/dashboard:0
+[    7632ms] [ERROR] Failed to load resource: net::ERR_FAILED @ http://localhost:8000/api/v1/reports/daily?centre_id=6a9dc517418f8c94e752ee34:0

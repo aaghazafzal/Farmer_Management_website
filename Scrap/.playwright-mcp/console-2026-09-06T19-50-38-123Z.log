@@ -1,0 +1,8 @@
+[     719ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ http://localhost:8000/api/v1/queue/6a9dbf0f2ff1af12c1d6ca69:0
+[    2121ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/slots?_rsc=U7B8qWy7hsxuduFs:0
+[    2408ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/procurement?_rsc=U7B8qWy7hsxuduFs:0
+[    2411ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/centres?_rsc=U7B8qWy7hsxuduFs:0
+[    2414ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/farmers?_rsc=U7B8qWy7hsxuduFs:0
+[    2417ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/alerts?_rsc=U7B8qWy7hsxuduFs:0
+[    3281ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/settings?_rsc=U7B8qWy7hsxuduFs:0
+[    3284ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/reports?_rsc=U7B8qWy7hsxuduFs:0

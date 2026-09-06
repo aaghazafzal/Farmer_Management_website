@@ -1,0 +1,177 @@
+- generic [ref=f8e2]:
+  - complementary [ref=f8e3]:
+    - generic [ref=f8e4]:
+      - link "KisanSetu Admin logo KisanSetu APMC Admin" [ref=f8e5] [cursor=pointer]:
+        - /url: /dashboard
+        - img "KisanSetu Admin logo" [ref=f8e6]
+        - generic [ref=f8e14]:
+          - generic [ref=f8e15]: KisanSetu
+          - generic [ref=f8e16]: APMC Admin
+      - generic [ref=f8e17]: v1.0
+    - navigation [ref=f8e18]:
+      - link "📊 Overview" [ref=f8e19] [cursor=pointer]:
+        - /url: /dashboard
+        - generic [ref=f8e20]: 📊
+        - generic [ref=f8e21]: Overview
+      - link "🎫 Live Queue Controller" [ref=f8e22] [cursor=pointer]:
+        - /url: /queue
+        - generic [ref=f8e23]: 🎫
+        - generic [ref=f8e24]: Live Queue Controller
+      - link "⏱ Slot Capacity Manager" [ref=f8e26] [cursor=pointer]:
+        - /url: /slots
+        - generic [ref=f8e27]: ⏱
+        - generic [ref=f8e28]: Slot Capacity Manager
+      - link "🧑‍🌾 Farmer Verification" [ref=f8e29] [cursor=pointer]:
+        - /url: /farmers
+        - generic [ref=f8e30]: 🧑‍🌾
+        - generic [ref=f8e31]: Farmer Verification
+      - link "⚖ Weighbridge & Quality" [ref=f8e32] [cursor=pointer]:
+        - /url: /procurement
+        - generic [ref=f8e33]: ⚖
+        - generic [ref=f8e34]: Weighbridge & Quality
+      - link "🏛 Mandi Directory" [ref=f8e35] [cursor=pointer]:
+        - /url: /centres
+        - generic [ref=f8e36]: 🏛
+        - generic [ref=f8e37]: Mandi Directory
+      - link "📢 Broadcast Alerts" [ref=f8e38] [cursor=pointer]:
+        - /url: /alerts
+        - generic [ref=f8e39]: 📢
+        - generic [ref=f8e40]: Broadcast Alerts
+      - link "📈 Reports & Audit Trail" [ref=f8e41] [cursor=pointer]:
+        - /url: /reports
+        - generic [ref=f8e42]: 📈
+        - generic [ref=f8e43]: Reports & Audit Trail
+      - link "⚙ Centre Settings" [ref=f8e44] [cursor=pointer]:
+        - /url: /settings
+        - generic [ref=f8e45]: ⚙
+        - generic [ref=f8e46]: Centre Settings
+    - generic [ref=f8e47]:
+      - generic [ref=f8e48]:
+        - generic [ref=f8e49]: API Status
+        - generic [ref=f8e50]: Local Fallback
+      - link "Switch to Farmer Portal ↗" [ref=f8e52] [cursor=pointer]:
+        - /url: http://localhost:3000
+        - generic [ref=f8e53]: Switch to Farmer Portal
+        - generic [ref=f8e54]: ↗
+  - generic [ref=f8e55]:
+    - banner [ref=f8e56]:
+      - generic [ref=f8e58]:
+        - generic [ref=f8e59]: "Active Mandi:"
+        - combobox [ref=f8e60]:
+          - option "ABC Procurement Centre (Amritsar)" [selected]
+          - option "Majitha Grain Mandi (Amritsar)"
+          - option "Tarn Taran APMC Yard (Tarn Taran)"
+          - option "Jalandhar Cantt Mandi (Jalandhar)"
+        - generic [ref=f8e61]: Open
+      - generic [ref=f8e63]:
+        - generic [ref=f8e64]:
+          - generic [ref=f8e66]: Suresh Pal
+          - generic [ref=f8e67]: Supervisor
+        - link [ref=f8e68] [cursor=pointer]:
+          - /url: /queue
+          - button "⚡ Live Queue" [ref=f8e69]:
+            - generic [ref=f8e70]: ⚡
+            - generic [ref=f8e71]: Live Queue
+    - main [ref=f8e72]:
+      - generic [ref=f8e73]:
+        - generic [ref=f8e74]:
+          - generic [ref=f8e75]:
+            - heading "Mandi Operations Overview" [level=1] [ref=f8e76]
+            - paragraph [ref=f8e77]: District Amritsar · Punjab APMC Procurement Coordination Centre
+          - generic [ref=f8e78]:
+            - link [ref=f8e79] [cursor=pointer]:
+              - /url: /slots
+              - button "⏱ Manage Slots" [ref=f8e80]:
+                - generic [ref=f8e81]: ⏱
+                - generic [ref=f8e82]: Manage Slots
+            - link [ref=f8e83] [cursor=pointer]:
+              - /url: /queue
+              - button "⚡ Queue Dispatcher" [ref=f8e84]:
+                - generic [ref=f8e85]: ⚡
+                - generic [ref=f8e86]: Queue Dispatcher
+        - generic [ref=f8e87]:
+          - generic [ref=f8e88]:
+            - generic [ref=f8e89]:
+              - generic [ref=f8e90]: Currently in Yard
+              - generic [ref=f8e91]: 🧑‍🌾
+            - generic [ref=f8e92]:
+              - generic [ref=f8e93]: "0"
+              - generic [ref=f8e94]: Farmers awaiting bay call
+          - generic [ref=f8e96]:
+            - generic [ref=f8e97]:
+              - generic [ref=f8e98]: Procured Today
+              - generic [ref=f8e99]: 🌾
+            - generic [ref=f8e100]:
+              - generic [ref=f8e101]: 1845.5 Qtl
+              - generic [ref=f8e102]: +18% vs yesterday
+          - generic [ref=f8e104]:
+            - generic [ref=f8e105]:
+              - generic [ref=f8e106]: MSP Value Disbursed
+              - generic [ref=f8e107]: ₹
+            - generic [ref=f8e108]:
+              - generic [ref=f8e109]: ₹42.0 Lakh
+              - generic [ref=f8e110]: Direct Bank Transfer (DBT)
+          - generic [ref=f8e112]:
+            - generic [ref=f8e113]:
+              - generic [ref=f8e114]: Avg Weigh Time
+              - generic [ref=f8e115]: ⚖
+            - generic [ref=f8e116]:
+              - generic [ref=f8e117]: 14.5 min
+              - generic [ref=f8e118]: "Target: <20 min"
+        - generic [ref=f8e120]:
+          - generic [ref=f8e121]:
+            - generic [ref=f8e122]:
+              - generic [ref=f8e123]:
+                - heading "Live Token Dispatch Console" [level=2] [ref=f8e126]
+                - generic [ref=f8e127]: Open
+              - generic [ref=f8e129]:
+                - paragraph [ref=f8e130]: No token is currently occupying the weighbridge bay.
+                - generic [ref=f8e131]:
+                  - button "📢 Call Next Token (0 waiting)" [disabled]:
+                    - generic: 📢
+                    - generic: Call Next Token (0 waiting)
+            - generic [ref=f8e132]:
+              - generic [ref=f8e133]:
+                - text: "Today's Completed Deliveries:"
+                - strong [ref=f8e134]: "0"
+              - generic [ref=f8e135]:
+                - text: "Flagged Delayed:"
+                - strong [ref=f8e136]: "0"
+              - link "Full Queue Table ➔" [ref=f8e137] [cursor=pointer]:
+                - /url: /queue
+          - generic [ref=f8e138]:
+            - generic [ref=f8e139]:
+              - heading "Yard Intake Utilization" [level=3] [ref=f8e140]
+              - paragraph [ref=f8e141]: Current intake against max daily yard capacity (140 quintals)
+              - generic [ref=f8e142]:
+                - generic [ref=f8e147]:
+                  - text: 78%
+                  - generic [ref=f8e148]: Capacity
+                - generic [ref=f8e149]:
+                  - generic [ref=f8e150]:
+                    - generic [ref=f8e151]: Weighbridge Bays Active
+                    - generic [ref=f8e152]: 2 of 2 operational
+                  - generic [ref=f8e153]:
+                    - generic [ref=f8e154]: Open Slots Remaining
+                    - generic [ref=f8e155]: 6 slots today
+            - link [ref=f8e157] [cursor=pointer]:
+              - /url: /slots
+              - button "Adjust Slot Quotas" [ref=f8e158]
+        - generic [ref=f8e160]:
+          - generic [ref=f8e161]:
+            - generic [ref=f8e162]:
+              - heading "Queue Dispatch Sequence" [level=3] [ref=f8e163]
+              - paragraph [ref=f8e164]: Next scheduled arrivals in line
+            - link "View All Tokens ➔" [ref=f8e165] [cursor=pointer]:
+              - /url: /queue
+          - table [ref=f8e167]:
+            - rowgroup [ref=f8e168]:
+              - row [ref=f8e169]:
+                - columnheader "Token" [ref=f8e170]
+                - columnheader "Farmer" [ref=f8e171]
+                - columnheader "Commodity" [ref=f8e172]
+                - columnheader "Quantity" [ref=f8e173]
+                - columnheader "Slot Time" [ref=f8e174]
+                - columnheader "Status" [ref=f8e175]
+                - columnheader "Action" [ref=f8e176]
+            - rowgroup

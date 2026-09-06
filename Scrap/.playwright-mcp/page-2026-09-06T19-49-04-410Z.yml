@@ -1,0 +1,195 @@
+- generic [ref=f1e2]:
+  - navigation [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - button "KisanSetu logo KisanSetu" [ref=f1e5] [cursor=pointer]:
+        - img "KisanSetu logo" [ref=f1e6]
+        - generic [ref=f1e14]: KisanSetu
+      - generic [ref=f1e15]:
+        - link "How it works" [ref=f1e16] [cursor=pointer]:
+          - /url: "#how"
+        - link "Features" [ref=f1e17] [cursor=pointer]:
+          - /url: "#features"
+        - link "For Centres" [ref=f1e18] [cursor=pointer]:
+          - /url: "#staff"
+        - link "About" [ref=f1e19] [cursor=pointer]:
+          - /url: /about
+        - link "Help" [ref=f1e20] [cursor=pointer]:
+          - /url: /help
+      - generic [ref=f1e21]:
+        - button "English" [ref=f1e23] [cursor=pointer]
+        - button "Log in" [ref=f1e29] [cursor=pointer]
+        - button "Book a Slot" [ref=f1e30] [cursor=pointer]
+  - generic [ref=f1e31]:
+    - generic [ref=f1e32]:
+      - generic [ref=f1e33]: Smart India Hackathon 2026 · SIH26032
+      - heading "Plan your visit. Skip the unnecessary wait." [level=1] [ref=f1e35]: Plan your visit.Skip the unnecessary wait.
+      - paragraph [ref=f1e36]: KisanSetu helps farmers book procurement slots, track their queue, and know the status of their procurement before making the journey.
+      - generic [ref=f1e37]:
+        - button [ref=f1e38] [cursor=pointer]
+        - button [ref=f1e42] [cursor=pointer]
+      - paragraph [ref=f1e46]: Free · No installation required · Works on any phone
+    - generic [ref=f1e47]:
+      - paragraph [ref=f1e48]: YOUR PROCUREMENT JOURNEY
+      - generic [ref=f1e49]:
+        - generic [ref=f1e54]:
+          - paragraph [ref=f1e55]: Farmer
+          - paragraph [ref=f1e56]: Registers once
+        - generic [ref=f1e64]:
+          - paragraph [ref=f1e65]: Find Centre
+          - paragraph [ref=f1e66]: By village or district
+        - generic [ref=f1e74]:
+          - paragraph [ref=f1e75]: Book a Slot
+          - paragraph [ref=f1e76]: Choose date & time
+        - generic [ref=f1e84]:
+          - paragraph [ref=f1e85]: Queue Position
+          - paragraph [ref=f1e86]: Know your number
+        - generic [ref=f1e94]:
+          - paragraph [ref=f1e95]: Visit Centre
+          - paragraph [ref=f1e96]: Arrive near your time
+        - generic [ref=f1e100]:
+          - generic [ref=f1e104]:
+            - paragraph [ref=f1e105]: Completed
+            - paragraph [ref=f1e106]: Procurement done
+          - generic [ref=f1e107]: Done!
+  - generic [ref=f1e109]:
+    - generic [ref=f1e110]:
+      - heading "Why procurement visits are difficult today" [level=2] [ref=f1e111]
+      - paragraph [ref=f1e112]: KisanSetu helps farmers book procurement slots, track their queue, and know the status of their procurement before making the journey.
+    - generic [ref=f1e113]:
+      - generic [ref=f1e114]:
+        - heading "Unpredictable waiting times" [level=3] [ref=f1e118]
+        - paragraph [ref=f1e119]: Farmers arrive at dawn and often wait hours or days without knowing when their turn will come.
+      - generic [ref=f1e120]:
+        - heading "Unnecessary Mandi trips" [level=3] [ref=f1e124]
+        - paragraph [ref=f1e125]: Making the journey only to find the centre closed, at capacity, or facing equipment breakdown.
+      - generic [ref=f1e126]:
+        - heading "No live queue visibility" [level=3] [ref=f1e130]
+        - paragraph [ref=f1e131]: Zero transparency on how many tractors are ahead or how fast the line is moving.
+  - generic [ref=f1e133]:
+    - generic [ref=f1e134]:
+      - heading "How KisanSetu Works" [level=2] [ref=f1e135]
+      - paragraph [ref=f1e136]: From field to Mandi, with complete clarity
+    - generic [ref=f1e137]:
+      - generic [ref=f1e138]:
+        - generic [ref=f1e139]: "01"
+        - heading "Book Before You Travel" [level=4] [ref=f1e140]
+        - paragraph [ref=f1e141]: Choose a date and arrival time block that works for you. No more arriving in the dark.
+      - generic [ref=f1e142]:
+        - generic [ref=f1e143]: "02"
+        - heading "Find Centre" [level=4] [ref=f1e144]
+        - paragraph [ref=f1e145]: By village or district
+      - generic [ref=f1e146]:
+        - generic [ref=f1e147]: "03"
+        - heading "Track the Queue Live" [level=4] [ref=f1e148]
+        - paragraph [ref=f1e149]: See your token number, how many farmers are ahead, and estimated wait time directly on your phone.
+      - generic [ref=f1e150]:
+        - generic [ref=f1e151]: "04"
+        - heading "Visit Centre" [level=4] [ref=f1e152]
+        - paragraph [ref=f1e153]: Arrive near your time
+      - generic [ref=f1e154]:
+        - generic [ref=f1e155]: "05"
+        - heading "Know Procurement Status" [level=4] [ref=f1e156]
+        - paragraph [ref=f1e157]: Follow weighing, quality check, and receipt generation step-by-step with zero guesswork.
+    - button "Book a Slot" [ref=f1e159] [cursor=pointer]
+  - generic [ref=f1e161]:
+    - generic [ref=f1e162]:
+      - heading "Designed for simplicity and everyday farmers" [level=2] [ref=f1e163]
+      - paragraph [ref=f1e164]: KisanSetu helps farmers book procurement slots, track their queue, and know the status of their procurement before making the journey.
+    - generic [ref=f1e165]:
+      - generic [ref=f1e166]:
+        - paragraph [ref=f1e170]: Live Queue Tracking
+        - paragraph [ref=f1e171]: Real-time token and wait-time updates right on your screen.
+      - generic [ref=f1e172]:
+        - paragraph [ref=f1e176]: Multilingual Support
+        - paragraph [ref=f1e177]: Available in Hindi, Marathi, Bengali, Punjabi, Urdu, and English.
+      - generic [ref=f1e178]:
+        - paragraph [ref=f1e182]: Simple Interface
+        - paragraph [ref=f1e183]: Large readable buttons, plain language, and no confusing technical jargon.
+      - generic [ref=f1e184]:
+        - paragraph [ref=f1e188]: Transparent Verification
+        - paragraph [ref=f1e189]: Gross weight, tare weight, moisture inspection, and MSP receipt digitally recorded.
+      - generic [ref=f1e190]:
+        - paragraph [ref=f1e194]: Multi-Crop Support
+        - paragraph [ref=f1e195]: Wheat, Paddy, Mustard, Cotton, Gram and all major Rabi/Kharif crops.
+  - generic [ref=f1e197]:
+    - generic [ref=f1e198]:
+      - text: For Centres
+      - heading "From crowded queues to coordinated operations." [level=2] [ref=f1e199]
+      - paragraph [ref=f1e200]: Give your staff real-time tools to manage capacity, control queues, update farmer status, and run a smoother operation every day.
+      - generic [ref=f1e201]:
+        - generic [ref=f1e202]: Centre Status
+        - generic [ref=f1e205]: Book Slot
+        - generic [ref=f1e208]: Queue
+        - generic [ref=f1e211]: Farmer
+        - generic [ref=f1e214]: Procurement
+      - button [ref=f1e217] [cursor=pointer]
+    - generic [ref=f1e221]:
+      - generic [ref=f1e222]:
+        - generic [ref=f1e223]:
+          - paragraph [ref=f1e224]: ABC Procurement Centre · Today
+          - paragraph [ref=f1e225]: Queue
+        - generic [ref=f1e226]: Live
+      - generic [ref=f1e228]:
+        - generic [ref=f1e229]:
+          - paragraph [ref=f1e230]: "142"
+          - paragraph [ref=f1e231]: Today's Farmers
+        - generic [ref=f1e232]:
+          - paragraph [ref=f1e233]: "128"
+          - paragraph [ref=f1e234]: Booked Slots
+        - generic [ref=f1e235]:
+          - paragraph [ref=f1e236]: "27"
+          - paragraph [ref=f1e237]: In Queue
+        - generic [ref=f1e238]:
+          - paragraph [ref=f1e239]: "84"
+          - paragraph [ref=f1e240]: Completed
+      - generic [ref=f1e241]:
+        - generic [ref=f1e242]:
+          - generic [ref=f1e243]: "#05"
+          - generic [ref=f1e244]: Gurpreet Singh
+          - generic [ref=f1e245]: Processing
+        - generic [ref=f1e246]:
+          - generic [ref=f1e247]: "#06"
+          - generic [ref=f1e248]: Suresh Patel
+          - generic [ref=f1e249]: Waiting
+        - generic [ref=f1e250]:
+          - generic [ref=f1e251]: "#07"
+          - generic [ref=f1e252]: Anjali Devi
+          - generic [ref=f1e253]: Waiting
+        - generic [ref=f1e254]:
+          - generic [ref=f1e255]: "#08"
+          - generic [ref=f1e256]: Ramesh Kumar
+          - generic [ref=f1e257]: Waiting
+  - contentinfo [ref=f1e258]:
+    - generic [ref=f1e259]:
+      - generic [ref=f1e260]:
+        - generic [ref=f1e261]:
+          - generic [ref=f1e262]:
+            - img "KisanSetu logo" [ref=f1e263]
+            - generic [ref=f1e271]: KisanSetu
+          - paragraph [ref=f1e272]: KisanSetu helps farmers plan procurement-center visits, reduce waiting, avoid unnecessary trips, and track procurement status.
+        - generic [ref=f1e273]:
+          - generic [ref=f1e274]:
+            - link "About" [ref=f1e275] [cursor=pointer]:
+              - /url: /about
+            - link "Help" [ref=f1e276] [cursor=pointer]:
+              - /url: /help
+            - link "Privacy" [ref=f1e277] [cursor=pointer]:
+              - /url: /privacy
+            - link "Terms" [ref=f1e278] [cursor=pointer]:
+              - /url: /terms
+            - link "Contact" [ref=f1e279] [cursor=pointer]:
+              - /url: /contact
+          - generic [ref=f1e280]:
+            - paragraph [ref=f1e281]: Language Support
+            - generic [ref=f1e282]:
+              - button "English" [ref=f1e283] [cursor=pointer]
+              - button "हिंदी" [ref=f1e284] [cursor=pointer]
+              - button "मराठी" [ref=f1e285] [cursor=pointer]
+              - button "বাংলা" [ref=f1e286] [cursor=pointer]
+              - button "ਪੰਜਾਬੀ" [ref=f1e287] [cursor=pointer]
+              - button "اردو" [ref=f1e288] [cursor=pointer]
+      - generic [ref=f1e289]:
+        - paragraph [ref=f1e290]: "Smart India Hackathon 2026 · Problem Statement ID: SIH26032"
+        - paragraph [ref=f1e291]:
+          - text: "Active Language:"
+          - strong [ref=f1e292]: English (English)

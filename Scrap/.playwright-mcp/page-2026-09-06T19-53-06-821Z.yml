@@ -1,0 +1,226 @@
+- generic [ref=f6e2]:
+  - banner [ref=f6e3]:
+    - generic [ref=f6e4]:
+      - generic [ref=f6e5]: "KisanSetu Service Status: Operational"
+      - generic [ref=f6e8]: Smart India Hackathon 2026 · SIH26032
+      - button "Centre Staff Portal →" [ref=f6e10] [cursor=pointer]
+    - generic [ref=f6e11]:
+      - button "KisanSetu logo KisanSetu Farmer Coordination Portal" [ref=f6e13] [cursor=pointer]:
+        - img "KisanSetu logo" [ref=f6e14]
+        - generic [ref=f6e22]:
+          - text: KisanSetu
+          - generic [ref=f6e23]: Farmer Coordination Portal
+      - navigation [ref=f6e24]:
+        - button "Dashboard" [ref=f6e25] [cursor=pointer]
+        - button "Find Centre" [ref=f6e28] [cursor=pointer]
+        - 'button "Queue #08" [ref=f6e31] [cursor=pointer]':
+          - text: Queue
+          - generic [ref=f6e34]: "#08"
+        - button "Bookings" [ref=f6e35] [cursor=pointer]
+        - button "Procurement" [ref=f6e38] [cursor=pointer]
+      - generic [ref=f6e41]:
+        - button "English" [ref=f6e43] [cursor=pointer]
+        - button "Notifications" [ref=f6e49] [cursor=pointer]
+        - generic [ref=f6e53]:
+          - generic [ref=f6e54]: RK
+          - generic [ref=f6e55]:
+            - paragraph [ref=f6e56]: Ramesh Kumar
+            - paragraph [ref=f6e57]: "ID: F-10482"
+          - button "Sign out" [ref=f6e58] [cursor=pointer]
+    - generic [ref=f6e60]:
+      - generic [ref=f6e61]:
+        - button "Home" [ref=f6e62]
+        - generic [ref=f6e63]: /
+        - generic [ref=f6e64]: dashboard
+      - generic [ref=f6e65]:
+        - generic [ref=f6e66]: Live updates · Last synchronized 10:49 AM
+        - generic [ref=f6e68]:
+          - text: "Today: ·"
+          - strong [ref=f6e69]: Mon, 7 Sept, 2026
+  - main [ref=f6e70]:
+    - generic [ref=f6e71]:
+      - generic [ref=f6e72]:
+        - generic [ref=f6e73]:
+          - generic [ref=f6e74]:
+            - generic [ref=f6e75]: Farmer Coordination Portal
+            - generic [ref=f6e76]: Plan your visit · Know your queue · Track procurement
+          - heading "Welcome back, Ramesh Kumar" [level=1] [ref=f6e77]
+          - paragraph [ref=f6e78]: Here is your agricultural procurement overview for today.
+        - generic [ref=f6e79]:
+          - generic [ref=f6e80]:
+            - generic [ref=f6e83]:
+              - text: TODAY'S PROCUREMENT VISIT
+              - heading "ABC Procurement Centre" [level=2] [ref=f6e84]
+            - generic [ref=f6e85]:
+              - generic [ref=f6e86]: Confirmed
+              - generic [ref=f6e88]: KS-240912-0842
+          - generic [ref=f6e89]:
+            - generic [ref=f6e90]:
+              - generic [ref=f6e91]:
+                - paragraph [ref=f6e92]: Appointment Date
+                - paragraph [ref=f6e93]: 12 Sep 2026
+                - paragraph [ref=f6e94]: "Gate Entry: 10:15 AM"
+              - generic [ref=f6e95]:
+                - paragraph [ref=f6e96]: Reserved Slot
+                - paragraph [ref=f6e97]: 10:30–11:00 AM
+                - paragraph [ref=f6e98]: Bay 2
+              - generic [ref=f6e99]:
+                - paragraph [ref=f6e100]: Your Token
+                - paragraph [ref=f6e101]: "#08"
+                - paragraph [ref=f6e102]: 3 Tokens Ahead
+              - generic [ref=f6e103]:
+                - paragraph [ref=f6e104]: Estimated Wait
+                - paragraph [ref=f6e105]: ~~36 min
+                - paragraph [ref=f6e106]: "Turn: ~11:15 AM"
+            - generic [ref=f6e107]:
+              - generic [ref=f6e108]:
+                - button [ref=f6e109] [cursor=pointer]
+                - button [ref=f6e113] [cursor=pointer]
+                - button [ref=f6e117] [cursor=pointer]
+              - generic [ref=f6e121]: Wheat · 85 quintals
+        - generic [ref=f6e123]:
+          - generic [ref=f6e124]:
+            - generic [ref=f6e125]:
+              - heading "Procurement Progress" [level=3] [ref=f6e126]
+              - paragraph [ref=f6e127]: "Current stage: In Queue · Bay 2"
+            - button "View Details" [ref=f6e128] [cursor=pointer]
+          - generic [ref=f6e129]:
+            - generic [ref=f6e136]:
+              - paragraph [ref=f6e137]: Booking Confirmed
+              - paragraph [ref=f6e138]: 11 Sep · 3:42 PM
+            - generic [ref=f6e145]:
+              - paragraph [ref=f6e146]: Visit Centre
+              - paragraph [ref=f6e147]: 12 Sep · 10:18 AM
+            - generic [ref=f6e154]:
+              - paragraph [ref=f6e155]: Queue Assigned
+              - paragraph [ref=f6e156]: 12 Sep · 10:20 AM
+            - generic [ref=f6e162]:
+              - paragraph [ref=f6e163]: Procurement in Progress
+              - paragraph [ref=f6e164]: Pending
+            - generic [ref=f6e170]:
+              - paragraph [ref=f6e171]: Quality Verification
+              - paragraph [ref=f6e172]: Pending
+            - generic [ref=f6e177]:
+              - paragraph [ref=f6e178]: Completed
+              - paragraph [ref=f6e179]: Pending
+        - generic [ref=f6e180]:
+          - generic [ref=f6e181]:
+            - generic [ref=f6e182]: ✓
+            - heading "BEFORE YOU ARRIVE" [level=4] [ref=f6e183]
+          - generic [ref=f6e184]:
+            - generic [ref=f6e185]: Keep booking reference KS-240912-0842 ready
+            - generic [ref=f6e189]: Bring land records and Aadhaar card
+            - generic [ref=f6e193]: Enter through Gate 2 at 10:15 AM
+            - generic [ref=f6e197]: Follow centre staff instructions upon arrival
+      - generic [ref=f6e201]:
+        - generic [ref=f6e202]:
+          - generic [ref=f6e203]:
+            - generic [ref=f6e204]: Centre Status
+            - generic [ref=f6e205]: Open Now
+          - heading "ABC Procurement Centre" [level=4] [ref=f6e207]
+          - paragraph [ref=f6e208]: Main Road, Kotla Kalan, Amritsar
+          - generic [ref=f6e209]:
+            - generic [ref=f6e210]:
+              - paragraph [ref=f6e211]: Current Queue
+              - paragraph [ref=f6e212]: "27"
+              - paragraph [ref=f6e213]: Farmers
+            - generic [ref=f6e214]:
+              - paragraph [ref=f6e215]: Avg Wait
+              - paragraph [ref=f6e216]: ~35 min
+              - paragraph [ref=f6e217]: flow normal
+            - generic [ref=f6e218]:
+              - paragraph [ref=f6e219]: Next Slot
+              - paragraph [ref=f6e220]: 2:30 PM
+              - paragraph [ref=f6e221]: Available
+        - generic [ref=f6e222]:
+          - generic [ref=f6e223]:
+            - generic [ref=f6e224]: RECOMMENDED SLOT
+            - generic [ref=f6e227]: Lowest Wait
+          - generic [ref=f6e228]:
+            - paragraph [ref=f6e229]: Tomorrow · 10:30–11:00 AM
+            - paragraph [ref=f6e230]:
+              - text: "Estimated wait:"
+              - strong [ref=f6e231]: ~20 min
+            - paragraph [ref=f6e232]: "Why recommended: Lower expected queue traffic than afternoon slots."
+          - button "Book This Slot" [ref=f6e233] [cursor=pointer]
+        - generic [ref=f6e234]:
+          - paragraph [ref=f6e235]: Quick Actions
+          - generic [ref=f6e236]:
+            - button "Book Slot Choose date & time" [ref=f6e237] [cursor=pointer]:
+              - generic [ref=f6e241]: Book Slot
+              - generic [ref=f6e242]: Choose date & time
+            - button "Find Centre Compare queues & slots" [ref=f6e243] [cursor=pointer]:
+              - generic [ref=f6e247]: Find Centre
+              - generic [ref=f6e248]: Compare queues & slots
+            - button "Bookings Active & past visits" [ref=f6e249] [cursor=pointer]:
+              - generic [ref=f6e253]: Bookings
+              - generic [ref=f6e254]: Active & past visits
+            - button "Help & FAQs Guide & procedures" [ref=f6e255] [cursor=pointer]:
+              - generic [ref=f6e257]: Help & FAQs
+              - generic [ref=f6e258]: Guide & procedures
+        - generic [ref=f6e259]:
+          - paragraph [ref=f6e260]: Recent Activity & SMS Alerts
+          - generic [ref=f6e261]:
+            - generic [ref=f6e264]:
+              - generic [ref=f6e265]:
+                - paragraph [ref=f6e266]: "Queue #09 delayed — verification in progress"
+                - generic [ref=f6e267]: 10:40 AM
+              - paragraph [ref=f6e268]: Queue processing is temporarily slower than expected. Estimated wait for subsequent tokens has increased by ~15 minutes.
+            - generic [ref=f6e271]:
+              - generic [ref=f6e272]:
+                - paragraph [ref=f6e273]: 10:00 AM slot reached full capacity
+                - generic [ref=f6e274]: 09:55 AM
+              - paragraph [ref=f6e275]: The 10:00–11:00 AM procurement slot is now 100% booked (20/20). Recommend booking 11:00 or 12:00 slots.
+            - generic [ref=f6e278]:
+              - generic [ref=f6e279]:
+                - paragraph [ref=f6e280]: 7 new bookings received for 14:00 slot
+                - generic [ref=f6e281]: 09:20 AM
+              - paragraph [ref=f6e282]: Afternoon slot bookings have been recorded and registered into queue schedule.
+            - generic [ref=f6e287]:
+              - generic [ref=f6e288]:
+                - paragraph [ref=f6e289]: 84 farmers processed successfully today
+                - generic [ref=f6e290]: 09:05 AM
+              - paragraph [ref=f6e291]: Morning procurement target achieved with 100% electronic weighbridge verification.
+  - contentinfo [ref=f6e292]:
+    - generic [ref=f6e293]:
+      - generic [ref=f6e294]:
+        - generic [ref=f6e295]:
+          - generic [ref=f6e296]:
+            - img "KisanSetu logo" [ref=f6e297]
+            - generic [ref=f6e305]: KisanSetu
+          - paragraph [ref=f6e306]: KisanSetu helps farmers plan procurement-center visits, reduce waiting, avoid unnecessary trips, and track procurement status.
+        - generic [ref=f6e307]:
+          - paragraph [ref=f6e308]: Farmer Services
+          - list [ref=f6e309]:
+            - listitem [ref=f6e310]:
+              - button "Find Nearby Procurement Centre" [ref=f6e311] [cursor=pointer]
+            - listitem [ref=f6e312]:
+              - button "Book Procurement Slot" [ref=f6e313] [cursor=pointer]
+            - listitem [ref=f6e314]:
+              - button "Track Queue & Waiting Time" [ref=f6e315] [cursor=pointer]
+            - listitem [ref=f6e316]:
+              - button "Track Procurement Status" [ref=f6e317] [cursor=pointer]
+        - generic [ref=f6e318]:
+          - paragraph [ref=f6e319]: Platform & Support
+          - list [ref=f6e320]:
+            - listitem [ref=f6e321]:
+              - button "About KisanSetu" [ref=f6e322] [cursor=pointer]
+            - listitem [ref=f6e323]:
+              - button "Help & FAQs" [ref=f6e324] [cursor=pointer]
+            - listitem [ref=f6e325]:
+              - button "Privacy Notice" [ref=f6e326] [cursor=pointer]
+            - listitem [ref=f6e327]:
+              - button "Terms of Use" [ref=f6e328] [cursor=pointer]
+            - listitem [ref=f6e329]:
+              - button "Contact Support" [ref=f6e330] [cursor=pointer]
+        - generic [ref=f6e331]:
+          - paragraph [ref=f6e332]: Portals & Access
+          - generic [ref=f6e333]:
+            - button "🏢 Procurement Staff Portal" [ref=f6e334] [cursor=pointer]
+            - paragraph [ref=f6e335]:
+              - text: "Smart India Hackathon 2026 solution concept · Problem Statement ID:"
+              - strong [ref=f6e336]: SIH26032
+              - text: .
+      - generic [ref=f6e337]:
+        - paragraph [ref=f6e338]: "© 2026 KisanSetu · Smart India Hackathon 2026 Prototype · Theme: Smart Automation"
+        - paragraph [ref=f6e339]: "Supported in: English · हिंदी · ਪੰਜਾਬੀ · मराठी · বাংলা · اردو"
