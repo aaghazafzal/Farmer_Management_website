@@ -13,9 +13,12 @@ Security layers (applied globally):
 """
 from __future__ import annotations
 
+import asyncio
 import logging
 import time
 from contextlib import asynccontextmanager
+
+import httpx
 
 from fastapi import FastAPI, Request
 from fastapi.exceptions import RequestValidationError
@@ -56,6 +59,21 @@ limiter = Limiter(
 
 
 # ── Lifespan (startup / shutdown) ─────────────────────────────────────────────
+async def self_ping():
+    """Background task to ping the service every 6 minutes to prevent sleep on free tiers."""
+    while True:
+        try:
+            await asyncio.sleep(360)  # 6 minutes
+            port = settings.PORT
+            url = f"http://127.0.0.1:{port}/health"
+            async with httpx.AsyncClient() as client:
+                await client.get(url, timeout=10.0)
+                logger.info("Self-ping executed to prevent sleep")
+        except asyncio.CancelledError:
+            break
+        except Exception as e:
+            logger.error(f"Self-ping failed: {e}")
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Application startup and shutdown lifecycle."""
@@ -63,7 +81,13 @@ async def lifespan(app: FastAPI):
     init_firebase()
     await connect_db()
     logger.info("KisanSetu backend ready on port %d", settings.PORT)
+    
+    # Start self-ping task
+    ping_task = asyncio.create_task(self_ping())
+    
     yield
+    
+    ping_task.cancel()
     await disconnect_db()
     logger.info("KisanSetu backend shut down cleanly")
 
